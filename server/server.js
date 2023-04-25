@@ -1,5 +1,6 @@
 const mongoose = require("mongoose")
 const Document = require("./schema/Document")
+// const Connection = require("./database/db")
 
 mongoose.connect("mongodb://localhost/google-docs-clone", {
   useNewUrlParser: true,
@@ -14,6 +15,7 @@ const io = require("socket.io")(3001, {
     methods: ["GET", "POST"],
   },
 })
+
 
 const defaultValue = ""
 

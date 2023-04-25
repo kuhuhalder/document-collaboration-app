@@ -6,6 +6,7 @@ const Document = new Schema({
 })
 
 module.exports = model("Document", Document)
+
 // import mongoose from 'mongoose';
 
 // const documentSchema = mongoose.Schema({
