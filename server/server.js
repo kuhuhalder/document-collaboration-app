@@ -2,7 +2,7 @@ const mongoose = require("mongoose")
 const Document = require("./schema/Document")
 // const Connection = require("./database/db")
 
-mongoose.connect("mongodb://localhost/google-docs-clone", {
+mongoose.connect("mongodb://localhost/collaboration-document", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useFindAndModify: false,
