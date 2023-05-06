@@ -1,8 +1,8 @@
 # Study of Internet Metrics on Document Collaboration Applications
 
-Author: Katherine Lee (ksl103), Kuhu Halder (kh761)
-Course: [CS 553](https://people.cs.rutgers.edu/~sn624/553-S23/index.html), Design of Internet Services (Graduate Course)
-Professor: Srinivas Narayana
+Author: Katherine Lee (ksl103), Kuhu Halder (kh761) <br/>
+Course: [CS 553](https://people.cs.rutgers.edu/~sn624/553-S23/index.html), Design of Internet Services (Graduate Course) <br/>
+Professor: Srinivas Narayana <br/>
 Semester: Spring 2023
 
 Final Paper can be found [here]()
