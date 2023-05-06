@@ -6,6 +6,7 @@ Professor: Srinivas Narayana <br/>
 Semester: Spring 2023
 
 Final Paper can be found [here]()
+Project Proposal can be found [here]()
 
 ## Table of Contents
 * [Introduction](#introduction)
