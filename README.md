@@ -10,7 +10,7 @@ Project Proposal can be found [here](https://github.com/kuhuhalder/document-coll
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Technologies/Frameworks](#technologies)
+* [Technologies/Frameworks](#technologiesframeworks)
 * [Folder Contents](#folder-contents)
 * [Setup](#setup)
 
@@ -82,6 +82,9 @@ The app should open in a new browser window at http://localhost:3000/
 ```
 autocannon -c 100 -d 10 -w 50 -l [link to app]
 ```
+
+This command will take less than a minute to run to return the benchmark metrics and statistics regarding the application/ tool we are testing.
+
 
 
 
