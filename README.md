@@ -1,12 +1,12 @@
 # Study of Internet Metrics on Document Collaboration Applications
 
-Author: Katherine Lee (ksl103), Kuhu Halder (kh761) <br/>
+Author: Kuhu Halder (kh761), Katherine Lee (ksl103) <br/>
 Course: [CS 553](https://people.cs.rutgers.edu/~sn624/553-S23/index.html), Design of Internet Services (Graduate Course) <br/>
 Professor: Srinivas Narayana <br/>
 Semester: Spring 2023
 
-Final Paper can be found [here]()
-Project Proposal can be found [here]()
+Final Paper can be found [here]() <br/>
+Project Proposal can be found [here](https://github.com/kuhuhalder/document-collaboration-app/blob/master/Project-Proposal-553.pdf)
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -15,11 +15,10 @@ Project Proposal can be found [here]()
 * [Setup](#setup)
 
 ## Introduction
------------
 
 Document collaboration has become an essential feature in word processors and similar applications. Users expect to be able to share their documents with friends and colleagues in order to be able to view, edit, and collaborate in real-time. While document collaboration is vital to these tools, especially in the post-pandemic era as people continue to work remotely, there is very little research on how well they perform. This study seeks to understand how connectivity and network affect the performance of some of the most popular collaboration tools: Google Docs, Microsoft Word, and Notion, and how performance can be improved by studying a small custom document collaboration app.
 
-## Technologies/ Frameworks
+## Technologies/Frameworks
 
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
