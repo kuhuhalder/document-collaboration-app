@@ -1,7 +1,7 @@
 # Study of Internet Metrics on Document Collaboration Applications
 
 Author: Kuhu Halder (kh761), Katherine Lee (ksl103) <br/>
-Course: [CS 553](https://people.cs.rutgers.edu/~sn624/553-S23/index.html), Design of Internet Services (Graduate Course) <br/>
+Course: [CS 553](https://people.cs.rutgers.edu/~sn624/553-S23/index.html) - Design of Internet Services (Graduate Course) <br/>
 Professor: Srinivas Narayana <br/>
 Semester: Spring 2023
 
@@ -83,7 +83,7 @@ The app should open in a new browser window at http://localhost:3000/
 autocannon -c 100 -d 10 -w 50 -l [link to app]
 ```
 
-This command will take less than a minute to run to return the benchmark metrics and statistics regarding the application/ tool we are testing.
+This command will take less than a minute to return the benchmark metrics and statistics regarding the application/ tool we are testing.
 
 
 
