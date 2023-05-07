@@ -38,7 +38,7 @@ Document collaboration has become an essential feature in word processors and si
     * One User Typing With Network Disconnect
     * Two Users Typing With Network Disconnect
     * Image Upload
-- exoeriments/graphs: Graphs folder inside experiments contains all graphs used in paper and is divided between individual application graphs and combined application graphs.  
+- experiments/graphs: Graphs folder inside experiments contains all graphs used in paper and is divided between individual application graphs and combined application graphs.  
 - server folder contains all files for the server used to run the custom document collaboration app written in Javascript using Node.js and MongoDB
 
 ## Setup
